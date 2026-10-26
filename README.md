@@ -40,7 +40,7 @@ Vierköpfiges Team. Meine Aufgaben im Projekt:
 ## Konstruktion
 
 - **Tonarm** (PLA): [Aufgabe des Bauteils, Besonderheit der Konstruktion]
-  ![Rendering des Tonarms](images/rendering-tonarm.png)
+  ![Rendering des Tonarms](images/rendering-Tonarm.png)
    
 
 - **Zentrierdorn** (Edelstahl): zentriert die Schallplatte auf dem Plattenteller
