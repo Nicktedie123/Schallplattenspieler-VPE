@@ -1,0 +1,16 @@
+# Native CAD files (use STEP exports instead)
+*.f3d
+*.f3z
+*.f2d
+
+# Backups and temp files
+*.bak
+*.tmp
+*~
+~$*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
